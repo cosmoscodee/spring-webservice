@@ -22,3 +22,6 @@ public class PostsSaveRequestDto {
                 .build();
     }
 }
+
+// 절대로 테이블과 매핑되는 Entity 클래스를 Request/ Response 클래스로 사용해서는 안됩니다.
+// Entity 클래스는 가장 Core한 클래스라고 보시면 되는데요.
