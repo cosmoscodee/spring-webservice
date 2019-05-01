@@ -1,0 +1,22 @@
+[스프링부트를 대하는 자세] / 발표자: 권용근
+
+참고 링크: https://www.youtube.com/watch?v=52i6gHnS1_g
+(45분 04초 유튜브영상)
+
+- Spring Boot는 Framework가 아닌 Spring을 지원해주는 도구
+- 필요 하지 않은 기술은 언제든지 걷어낼 수 있다.
+
+왜 부트를 이해해야 할까?
+
+- 부트는 설정을 대신 해주지만 문제가 발생했을 때, 부트를 이해하지 못하면 문제점을 해결하는데 오래걸림.
+- Reference Guide가 기본이 되어야 한다.
+ - Spring Boot Reference Guide를 한번 훑어보고 시작하면 좋을 것 같다.
+ - 가이드를 보기에 너무 힘들면 스프링부트코딩공작소 라는 교재를 보는 것도 추천한다. (예제가 많은 스프링부트프로그래밍입문 또한 추천)
+
+- Release Note
+ Reference Guide를 다 봤다고 해서 변하는 기술을 계속해서 체크하기엔 무리가 있다. 그래서 Spring Boot Release Notes를 참고 하는 것이 좋다.
+
+- 'Starter Dependency'
+ - JPA를 사용하기 위해서는 필요한 Dependency를 찾아야 한다.
+ - 시작 전 Starter Dependency가 제공해주는 기본 Dependency 내용을 확인해보자.
+ - Version간 호환성도 찾아야 한다.
