@@ -25,4 +25,7 @@ https://github.com/jojoldu/springboot-webservice#%EA%B0%9C%EB%B0%9C%ED%99%98%EA%
 - Lombok 라이브러리의 어노테이션
 - 빌드 패턴
 - junit 4 기반으로 테스트
-- 
+- Handlebars, Thymeleaf
+- 트랜잭션
+
+- 부트스트랩 추가
