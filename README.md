@@ -14,10 +14,19 @@ Java8
 
 Gradle
 
->> 본 프로젝트는 jojoldu님의 스프링부트로 웹서비스 구축하기 시리즈를 참고한 예제 프로젝트입니다.
-https://github.com/jojoldu/springboot-webservice#%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD
+---
 
-본 프로젝트는 Spring boot 와 Gradle 기반 웹 서비스 구현을 이해하고, AWS EC2 활용, 배포까지 직접해보기를 목표로 두고 있습니다.
+<br/>
+
+>> 본 프로젝트는 jojoldu님의 [스프링부트로 웹서비스 구축하기 시리즈](https://github.com/jojoldu/springboot-webservice#%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD)를 참고한 예제 프로젝트입니다.
+
+<br/>
+
+>> 본 프로젝트는 Spring boot 와 Gradle 기반 웹 서비스 구현을 이해하고, AWS EC2 활용, 배포까지 직접해보기를 목표로 두고 있습니다.
+
+---
+
+<br/>
 
 공부할 내용
 - 파일 디렉토리 구조 파악
@@ -27,5 +36,10 @@ https://github.com/jojoldu/springboot-webservice#%EA%B0%9C%EB%B0%9C%ED%99%98%EA%
 - junit 4 기반으로 테스트
 - Handlebars, Thymeleaf
 - 트랜잭션
+- H2 DB
 
-- 부트스트랩 추가
+---
+
+<br/>
+
+### 프로젝트의 주 목적은 AWS Webservice 기술을 사용하는 것이 주된 목적입니다.
