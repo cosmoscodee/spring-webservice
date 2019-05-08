@@ -39,4 +39,8 @@ Gradle
 
 <br/>
 
-### 프로젝트의 주 목적은 AWS Webservice 기술을 사용하는 것이 주된 목적입니다.
+#### 프로젝트의 중요도
+
+- Springboot + Gradle ■■□□□
+- AWS WebService(EC2, RDS etc) ■■■■□
+- 배포 및 운영 실습 ■■■■□
