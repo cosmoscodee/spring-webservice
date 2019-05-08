@@ -24,6 +24,13 @@ Gradle
 
 본 프로젝트는 Spring boot 와 Gradle 기반 웹 서비스 구현을 이해하고, AWS EC2 활용, 배포까지 직접해보기를 목표로 두고 있습니다.
 
+<br/>
+
+#### 프로젝트의 중요도
+
+- Springboot + Gradle ■■□□□
+- AWS WebService(EC2, RDS etc) ■■■■□
+- 배포 및 운영 실습 ■■■■□
 
 <br/>
 
@@ -36,11 +43,3 @@ Gradle
 - Handlebars, Thymeleaf
 - 트랜잭션
 - H2 DB
-
-<br/>
-
-#### 프로젝트의 중요도
-
-- Springboot + Gradle ■■□□□
-- AWS WebService(EC2, RDS etc) ■■■■□
-- 배포 및 운영 실습 ■■■■□
