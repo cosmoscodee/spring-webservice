@@ -31,6 +31,9 @@ public class PostsRepositoryTest {
         postsRepository.deleteAll();
     }
 
+    // given - 테스트 기반 환경을 구축하는 단계
+    // when - 테스트 하고자 하는 행위 선언
+    // then - 테스트 결과 검증
     @Test
     public void 게시글저장_불러오기() {
         //given
@@ -70,3 +73,6 @@ public class PostsRepositoryTest {
 
     }
 }
+
+// (Junit은 spring-boot-starter-test에 있기 때문에 별도로 build.gradle에 추가하실 필요가 없습니다.)
+// JUnit을 통해 어떤 값을 입력할 경우 어떤 결과가 반환되는지 검증할수 있습니다.
